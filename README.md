@@ -48,6 +48,9 @@ The design philosophy behind "Achadata Light Theme" is to offer a balance betwee
    - Test the responsiveness of your site by viewing it on different devices (desktop, tablet, mobile) to ensure that it displays correctly on all screen sizes.
 
 8. **Get Support (if needed):**
-   - If you encounter any issues or have questions about using the theme, refer to the theme documentation or contact the theme developer for support.
+   - For any questions, issues, or customization requests, feel free to contact the author at [janlord.luga@gmail.com](mailto:janlord.luga@gmail.com). We're committed to providing prompt and helpful support to ensure your experience with "Achadata Light Theme" is exceptional.
+
+**Author:**
+Janlord Luga
 
 That's it! You've successfully installed and set up the "Achadata Light Theme" WordPress theme. Customize it to your liking and start creating beautiful content for your website.
